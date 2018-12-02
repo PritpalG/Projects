@@ -4,4 +4,5 @@ It will then read in each number in the file and represent them all as a number 
 Since each digit is simply a node in our linked list we may use files with numbers thousands of digits long!
 
 
-Once both linked lists are build it will call the SumP function which will perform the summing procedure and return a pointer to a singly linked list which is the result of addition.
+Once both linked lists are build it will call the SumP function which will perform the summing procedure,
+and return a pointer to a singly linked list which is the result of addition of p1 & p2.
